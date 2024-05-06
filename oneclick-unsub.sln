@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34414.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oneclick-unsub", "oneclick-unsub\oneclick-unsub.csproj", "{2740A0B4-9523-4326-BCD8-97D867AFA852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2740A0B4-9523-4326-BCD8-97D867AFA852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2740A0B4-9523-4326-BCD8-97D867AFA852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2740A0B4-9523-4326-BCD8-97D867AFA852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2740A0B4-9523-4326-BCD8-97D867AFA852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69E5169-4C58-490F-80E4-C7E3BEACA5AE}
+	EndGlobalSection
+EndGlobal
